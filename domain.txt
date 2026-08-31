@@ -1,12 +1,12 @@
-        "www.shopify.com:443#Shopify|优选域名|",
-        "store.ubi.com:443#Ubisoft|优选域名|",
-        "staticdelivery.nexusmods.com:443#NexusMods|优选域名|",
-        "mfa.gov.ua:443#乌克兰外交部|优选域名|",
-        "zrf666.cf.090227.xyz:443#CM|优选域名|",
-        "bestcf.030101.xyz:443#MY|优选域名|",
-        "icook.hk:443#icook.HK|优选域名|",
-        "icook.tw:443#icook.TW|优选域名|",
-        "time.is:443#Time.is|优选域名|",
-        "blog.811520.xyz:443#青云志|优选域名|",
-        "cloudflare.182682.xyz:443#182682|优选域名|",
-        "cf.877774.xyz:443#秋名山|优选域名|"
+www.shopify.com:443#Shopify|优选域名|
+store.ubi.com:443#Ubisoft|优选域名|
+staticdelivery.nexusmods.com:443#NexusMods|优选域名|
+mfa.gov.ua:443#乌克兰外交部|优选域名|
+zrf666.cf.090227.xyz:443#CM|优选域名|
+bestcf.030101.xyz:443#MY|优选域名|
+icook.hk:443#icook.HK|优选域名|
+icook.tw:443#icook.TW|优选域名|
+time.is:443#Time.is|优选域名|
+blog.811520.xyz:443#青云志|优选域名|
+cloudflare.182682.xyz:443#182682|优选域名|
+cf.877774.xyz:443#秋名山|优选域名|
